@@ -1,0 +1,83 @@
+41
+7
+mark mark1@google.in mark1@google.in mark0@google.in mark1@gmail.com mark8@gmail.com mark2@mail.com
+7
+john john5@mail.com john5gfg.org john2@google.in john7@gmail.com john1@gmail.com john2@mail.com
+6
+mark mark9gfg.org mark4@google.in mark9@gmail.com mark4@gmail.com mark5@mail.com
+8
+bob bob3@mail.com bob3@mail.com bob4gfg.org bob4gfg.org bob9gfg.org bob7@mail.com bob7@google.in
+6
+bob bob7@google.in bob3@gmail.com bob9@google.in bob2@google.in bob3@mail.com
+7
+mark mark4@google.in mark4gfg.org mark5@gmail.com mark7@mail.com mark3gfg.org mark4gfg.org
+6
+kevin kevin9@mail.com kevin0@google.in kevin6gfg.org kevin9@google.in kevin6gfg.org
+2
+john john8@mail.com
+9
+alice alice6gfg.org alice6@gmail.com alice3@google.in alice9@gmail.com alice5@google.in alice1@mail.com alice8@mail.com alice8@mail.com
+7
+kevin kevin6gfg.org kevin5@gmail.com kevin2@google.in kevin0@google.in kevin1@mail.com kevin0@gmail.com
+9
+bob bob2@google.in bob0@mail.com bob2@gmail.com bob2@mail.com bob9@gmail.com bob2@mail.com bob6@mail.com bob4@gmail.com
+7
+kevin kevin4@google.in kevin8@mail.com kevin6gfg.org kevin7gfg.org kevin4@mail.com kevin0@mail.com
+7
+levin levin8@gmail.com levin0gfg.org levin1@google.in levin7@gmail.com levin2@gmail.com levin3@mail.com
+5
+bob bob2@google.in bob2@mail.com bob8@google.in bob1gfg.org
+4
+levin levin8@gmail.com levin8@gmail.com levin5gfg.org
+9
+alice alice2@google.in alice8@mail.com alice2@mail.com alice0@google.in alice3gfg.org alice2@mail.com alice0gfg.org alice7@gmail.com
+3
+john john2gfg.org john8gfg.org
+7
+fern fern8gfg.org fern2@mail.com fern5@mail.com fern7gfg.org fern4gfg.org fern0@gmail.com
+4
+kevin kevin9@google.in kevin9gfg.org kevin8@google.in
+2
+fern fern2@google.in
+4
+levin levin7@google.in levin8@mail.com levin9@google.in
+10
+levin levin1@mail.com levin6@google.in levin9gfg.org levin0gfg.org levin0gfg.org levin7@mail.com levin1@mail.com levin9@google.in levin2@mail.com
+8
+mark mark7@google.in mark5@gmail.com mark0@google.in mark0gfg.org mark7@mail.com mark1@mail.com mark6@google.in
+8
+alice alice3@mail.com alice6gfg.org alice2gfg.org alice8gfg.org alice0@mail.com alice3gfg.org alice8@gmail.com
+4
+bob bob7gfg.org bob7@google.in bob1@mail.com
+8
+fern fern0@mail.com fern7@google.in fern3gfg.org fern3@gmail.com fern1@google.in fern0@gmail.com fern1gfg.org
+9
+alice alice0@google.in alice1@mail.com alice0gfg.org alice7@google.in alice3@mail.com alice0gfg.org alice7@gmail.com alice3@gmail.com
+5
+levin levin9@mail.com levin6@google.in levin6@google.in levin9@gmail.com
+3
+levin levin4@mail.com levin6@google.in
+9
+john john7@google.in john0@mail.com john7@gmail.com john6@google.in john5@google.in john3@google.in john6@mail.com john4@gmail.com
+6
+kevin kevin2@gmail.com kevin8gfg.org kevin9@google.in kevin7@gmail.com kevin1gfg.org
+9
+alice alice5@google.in alice7gfg.org alice2@google.in alice2@mail.com alice7@mail.com alice0@gmail.com alice5@mail.com alice8@google.in
+3
+kevin kevin6gfg.org kevin3@google.in
+6
+john john0@mail.com john9@google.in john5@google.in john8@gmail.com john2@gmail.com
+6
+kevin kevin4gfg.org kevin8@google.in kevin2@mail.com kevin6gfg.org kevin2@mail.com
+2
+kevin kevin4@gmail.com
+8
+john john0@mail.com john3@google.in john6@google.in john8@google.in john7@google.in john0@gmail.com john4@mail.com
+6
+mark mark2@gmail.com mark8@google.in mark1@google.in mark9@google.in mark8gfg.org
+3
+bob bob9@google.in bob1gfg.org
+9
+levin levin9@mail.com levin3@google.in levin8@google.in levin7gfg.org levin0gfg.org levin5@gmail.com levin0@gmail.com levin0@mail.com
+6
+mark mark3@gmail.com mark8@google.in mark4@google.in mark6@gmail.com mark7gfg.org

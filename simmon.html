@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>simmon</title>
+    <style>
+        img:hover {
+  -webkit-filter: drop-shadow(5px 5px 0 yellow)
+                  drop-shadow(-5px -5px 0 yellow);
+  filter: drop-shadow(5px 5px 0 yellow) 
+          drop-shadow(-5px -5px 0 yellow);
+}
+        h1 {
+            /* position:absolute; */
+            display: flex;
+            justify-content: space-around;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            font-weight: 500px;
+            color: red;
+            font-size: 6rem;
+            margin: 10px;
+            padding: 10px;
+            border: 1px rebeccapurple;
+            text-decoration: underline;
+
+        }
+
+        h3 {
+            color: orangered;
+            font-size: 3rem;
+            text-align: center;
+            text-decoration: underline;
+        }
+
+        .g,
+        .t,
+        .e,
+        .r,.m {
+            background-color: transparent;
+            border: 0px;
+        }
+/* 
+        .g :hover,
+        .t :hover,
+        .e :hover,
+        .r :hover,
+        .m :hover {
+            /* width="250px" height="350px"  */
+            /* width: 210px;
+            height: 510px; */
+            /* background-color: yellow;
+            
+             border:1px red; */
+            box-shadow: inset;
+            /* border: 2px solid brown; */
+            background-image: linear-gradient(skyblue, yellow);
+            /* backdrop-filter: invert(56%); */
+            border-radius: 25px;
+            /* backdrop-filter: blur(0.6px); */ } */
+         
+
+        .click {
+            /* box-shadow:inset; */
+            /* border: 2px solid brown; */
+            /* background-image: linear-gradient( skyblue,green); */
+            /* border-radius: 25px; */
+            background-image: linear-gradient(yellow, WHITE);
+        }
+
+        .heading{
+            position:relative;
+            top:400px;
+        }
+      button{
+        display: inline;
+      }
+    </style>
+</head>
+<!-- width:100%; height:100%; -->
+
+<body style="background-image: url('image/scene.webp');  ">
+    
+    <div class="heading" style="display:flex; flex-direction:row; justify-content:center ; background-color: transparent; ">
+        <button class="m"><img src="image/monkey.png " width="150px" height="350px" background-color="transparent" /></button>
+        <div  style="background-image: url('image/snake.png'); background-repeat: no-repeat;   -webkit-filter: drop-shadow(5px 5px 0 yellow)
+        drop-shadow(-5px -5px 0 yellow);
+filter: drop-shadow(5px 5px 0 yellow) 
+drop-shadow(-5px -5px 0 yellow); ">
+            <h1  style=" -webkit-filter: drop-shadow(1px 1px 0 black)
+            drop-shadow(-1px -1px 0 black);
+    filter: drop-shadow(1px 1px 0 black) 
+    drop-shadow(-1px -1px 0 black);">Jungle Safari</h1>
+            <!-- <img src="image/snake.png" /> -->
+            <h3 style=" -webkit-filter: drop-shadow(1px 1px 0 black)
+            drop-shadow(-1px -1px 0 black);
+    filter: drop-shadow(1px 1px 0 black) 
+    drop-shadow(-1px -1px 0 black);">START GAME :: press any key</h3>
+    <!-- <input type="text" value="name" name="name" class="name" placeholder="NAMEFAF" ></input> -->
+            <!-- <button class="btn" >NEW GAME </button> -->
+            <h3 id="score"  style=" -webkit-filter: drop-shadow(1px 1px 0 black)
+            drop-shadow(-1px -1px 0 black);
+    filter: drop-shadow(1px 1px 0 black) 
+    drop-shadow(-1px -1px 0 black);"> Score : 0</h3>
+        </div>
+    </div>
+    <div class="set"
+        style="display:flex; justify-content:space-around; flex-direction:row; position: relative; bottom: 4px; top: 200px;">
+        <!-- 
+        <div> -->
+        <div><button class="g ">g<img src="image/g.png " width="200px" height="500px" /></button></div>
+
+        <!-- </div>
+        <br>
+        <div> -->
+
+        <div><button class="t" style="position: relative; bottom: 4px; top: 250px;">t<img src="image/l.png"
+                    width="200px" height="300px" /></button></div>
+        <div><button class="r" style="position: relative; bottom: 4px; top: 180px;">r<img src="image/r.png"
+                    width="200px" height="300px" /></button></div>
+        <div><button class="e " style="position: relative; bottom: 4px; top: 200px;">e<img src="image/e.png"
+                    width="300px" height="400px" /></button></div>
+        <!-- </div> -->
+        <!-- <div><button class="J drum ">J<img src="image/snare.png"></button></div>
+    <div><button class="K drum ">K<img src="image/kick.png"></button></div>
+    <div><button class="L drum ">L<img src="image/crash.png"></button></div> -->
+    </div>
+
+    <footer style="font-family: 'Arizonia', cursive; font-weight: 150px; color:blueviolet;  font-size: 2.4rem; text-align: center;
+        position: relative;
+        top: 300px;
+        
+        ">
+      © Copyright:jungletv </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/d3js/7.8.0/d3.min.js"></script>
+
+    <script src="simmon.js"></script>
+
+</body>
+
+</html>
