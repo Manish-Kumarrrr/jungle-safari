@@ -6,7 +6,7 @@ var level = 0;
 var score = 0;
 var flag = 0;
 var ind = 0;
-document.querySelector(".startt").addEventListener("click", function (event) {
+document.addEventListener("keypress", function (event) {
     // document.querySelector(".name")= document.querySelector(".name").innerHTML;
     userpattern = [];
     flag = 1;
