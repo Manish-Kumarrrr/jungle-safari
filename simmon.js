@@ -58,6 +58,7 @@ document.querySelector(".g").addEventListener("click", function (event) {
         }
         else {
             flag = 0;
+            score=0;
             document.querySelector("h3").innerHTML = "FINISHED";
             var audio = new Audio("sounds/failure.mp3");
             audio.play();
@@ -94,6 +95,7 @@ document.querySelector(".t").addEventListener("click", function (event) {
         }
         else {
             flag = 0;
+            score=0;
             document.querySelector("h3").innerHTML = "FINISHED";
             var audio = new Audio("sounds/failure.mp3");
             audio.play();
@@ -132,6 +134,7 @@ document.querySelector(".r").addEventListener("click", function (event) {
         }
         else {
             flag = 0;
+            score=0;
             document.querySelector("h3").innerHTML = "FINISHED";
             var audio = new Audio("sounds/failure.mp3");
             audio.play();
@@ -170,6 +173,7 @@ document.querySelector(".e").addEventListener("click", function (event) {
         }
         else {
             flag = 0;
+            score=0;
             document.querySelector("h3").innerHTML = "FINISHED";
             var audio = new Audio("sounds/failure.mp3");
             audio.play();
@@ -205,6 +209,7 @@ document.querySelector(".m").addEventListener("click", function (event) {
         }
         else {
             flag = 0;
+            score=0;
             document.querySelector("h3").innerHTML = "FINISHED";
             var audio = new Audio("sounds/failure.mp3");
             audio.play();
